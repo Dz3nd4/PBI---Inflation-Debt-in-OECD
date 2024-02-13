@@ -47,4 +47,8 @@ This interactive Power BI project delves into the financial landscapes of OECD m
 
 ## Author
 
-Jan Jiskra [@Dz3nd4](https:///github.com/Dz3nd4) as part of ENGETO DATA ACADEMY 2023
+**Jan Jiskra** as part of ENGETO DATA ACADEMY 2023
+
+GitHub [@Dz3nd4](https:///github.com/Dz3nd4)
+
+Discord vivacious_avocado_27292
